@@ -74,17 +74,4 @@
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em3.png"></img>
 </div>
 
-## Contributing
-
-View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
-
-## License
-
-Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
-
-## Errors?
-
--   Make an [issue](https://github.com/addi00000/empyrean/issues)
--   Join the [Discord](https://discord.gg/GudVbfd9ZU)
-
 <img src="img/footer.png">
